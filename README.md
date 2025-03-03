@@ -80,7 +80,7 @@
 
 ## 🎮 Live Demo
 
-Experience the generator in action! Visit our [Live Demo](https://malvin-session-0h9e.onrender.com/) to see how it works.
+Experience the generator in action! Visit our [Live Demo](put a link here) to see how it works.
 
 ## 👨‍💻 Developer
 
@@ -89,7 +89,7 @@ Experience the generator in action! Visit our [Live Demo](https://malvin-session
   <h3>Eliahhango</h3>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-okq8.vercel.app)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263714757857)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255617834510)
 </div>
 
 ## 🤝 Contributing
