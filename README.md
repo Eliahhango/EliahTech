@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FA796&width=435&lines=Generate+WhatsApp+Sessions+Easily;Powered+by+Whiskeysockets%2FBaileys;Secure+%26+Reliable+Session+Generator)](https://github.com/Eliahhango/Eliah-session)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FA796&width=435&lines=Generate+WhatsApp+Sessions+Easily;Powered+by+EliTechWiz%2Tanzanian+%26+Developer+2025)](https://github.com/Eliahhango/EliahTech)
 
 <img src="https://telegra.ph/file/dc73e16b9988c7c56b56f.jpg" alt="Banner" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEliahhango%2FEliah-session&label=VISITORS&labelColor=%23007EC6&countColor=%23263759)](https://github.com/Eliahhango/Eliah-session)
-[![GitHub stars](https://img.shields.io/github/stars/Eliahhango/Eliah-session?style=for-the-badge&color=gold)](https://github.com/Eliahhango/Eliah-session/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Eliahhango/Eliah-session?style=for-the-badge&color=blue)](https://github.com/Eliahhango/Eliah-session/network/members)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEliahhango%2FEliahTech&label=VISITORS&labelColor=%23007EC6&countColor=%23263759)](https://github.com/Eliahhango/EliahTech)
+[![GitHub stars](https://img.shields.io/github/stars/Eliahhango/EliahTech?style=for-the-badge&color=gold)](https://github.com/Eliahhango/EliahTech/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Eliahhango/EliahTech?style=for-the-badge&color=blue)](https://github.com/Eliahhango/EliahTech/network/members)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
@@ -49,8 +49,8 @@
 
 ### ☁️ Cloud Platforms
 
-[![Deploy to Heroku](https://img.shields.io/badge/-Deploy%20to%20Heroku-7056bf?style=for-the-badge&logo=heroku&logoColor=white&link=https://dashboard.heroku.com/new?template=https://github.com/Eliahhango/Eliah-session)](https://dashboard.heroku.com/new?template=https://github.com/Eliahhango/Eliah-session)
-[![Deploy to Render](https://img.shields.io/badge/-Deploy%20to%20Render-44E4B4?style=for-the-badge&logo=render&logoColor=black&link=https://dashboard.render.com/new?template=https://github.com/Eliahhango/Eliah-session)](https://dashboard.render.com/new?template=https://github.com/Eliahhango/Eliah-session)
+[![Deploy to Heroku](https://img.shields.io/badge/-Deploy%20to%20Heroku-7056bf?style=for-the-badge&logo=heroku&logoColor=white&link=https://dashboard.heroku.com/new?template=https://github.com/Eliahhango/EliahTech)](https://dashboard.heroku.com/new?template=https://github.com/Eliahhango/EliahTech)
+[![Deploy to Render](https://img.shields.io/badge/-Deploy%20to%20Render-44E4B4?style=for-the-badge&logo=render&logoColor=black&link=https://dashboard.render.com/new?template=https://github.com/Eliahhango/EliahTech)](https://dashboard.render.com/new?template=https://github.com/Eliahhango/EliahTech)
 
 ### 🌟 Premium Options
 
@@ -80,7 +80,7 @@
 
 ## 🎮 Live Demo
 
-Experience the generator in action! Visit our [Live Demo](put a link here) to see how it works.
+Experience the generator in action! Visit our Live Demo to see how it works.
 
 ## 👨‍💻 Developer
 
@@ -88,7 +88,7 @@ Experience the generator in action! Visit our [Live Demo](put a link here) to se
   <img src="https://github.com/Eliahhango.png" width="150" height="150" style="border-radius: 50%;" alt="Eliahhango">
   <h3>Eliahhango</h3>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-okq8.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](put a link here)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255617834510)
 </div>
 
@@ -99,7 +99,7 @@ We welcome contributions! Here's how you can help:
 ```bash
 # Fork the repository
 # Clone your fork
-git clone https://github.com/your-username/Eliah-session.git
+git clone https://github.com/Eliahhango/EliahTech.git
 
 # Create your feature branch
 git checkout -b feature/AmazingFeature
